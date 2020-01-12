@@ -1,24 +1,24 @@
 ,polo,vagas,endereco,lat,lng,distance
-0,Adamantina,10 ,"Alameda dos Expedicionários, 864 - Centro CEP: 17800-000",-21.684933,-51.0785944,576702.0
-1,Aguaí,10 ,"Av. Olinda Silveira Cruz Braga, 200 - Parque Interlagos CEP: 13860-000",-22.0590985,-46.9825305,189028.0
-2,Agudos,10 ,"R. João Pessoa, 2 - Professor Simões CEP: 17120-000",-7.119495799999999,-34.8450118,2786649.0
-3,Altinópolis,10 ,"R. Alagoas, 248 - Vila Maria CEP: 14350-000",-21.0195562,-47.374682,327717.0
+0,Adamantina,10 ,"Alameda dos Expedicionários, 864 - Centro CEP: 17800-000",-21.684933,-51.0785944,584888.0
+1,Aguaí,10 ,"Av. Olinda Silveira Cruz Braga, 200 - Parque Interlagos CEP: 13860-000",-22.0590985,-46.9825305,189023.0
+2,Agudos,10 ,"R. João Pessoa, 2 - Professor Simões CEP: 17120-000",-22.4789485,-48.9963026,310345.0
+3,Altinópolis,10 ,"R. Alagoas, 248 - Vila Maria CEP: 14350-000",-21.0195562,-47.374682,327713.0
 4,Alumínio,10 ,"Av. Senador José Ermírio de Moraes, 798 - Vila Industrial CEP: 18125-000",-23.5329088,-47.2550183,78107.0
 5,Alvinlandia,10 ,"R. Vereador Antonio Teruel, 670 - Centro CEP: 17430-000",-22.4404969,-49.76448870000001,413612.0
 6,Americana,50 ,"R. das Hortências, 1555 - Cidade Jardim CEP: 13467-190",-22.766372,-47.3392078,125688.0
 7,Américo Brasiliense,10 ,"Av. Nove de Julho, 192 - Centro CEP: 14820-000",-21.7272002,-48.1053016,282434.0
-8,Amparo,25 ,"R. Gustavo de Souza, 108 - Ribeirão Amparo CEP: 13904-903",-22.7100967,-46.7735187,123235.0
+8,Amparo,25 ,"R. Gustavo de Souza, 108 - Ribeirão Amparo CEP: 13904-903",-22.7100967,-46.7735187,123639.0
 9,Andradina,20 ,"R. Humberto de Campos, 229 - Centro CEP: 16901-012",-20.8913322,-51.3819651,626368.0
-10,Anhembi,10 ,"R. Prefeito Spedito Scalise , S/N - Morada do Sol CEP: 18620-000",-22.7611033,-48.19955909999999,228360.0
+10,Anhembi,10 ,"R. Prefeito Spedito Scalise , S/N - Morada do Sol CEP: 18620-000",-22.7611033,-48.19955909999999,229791.0
 11,Aparecida,10 ,"Praça Pe. Victor Coelho de Almeida, 100 - Jardim São Paulo CEP: 12570-000",-22.856598,-45.235251,173210.0
-12,Apiaí,10 ,"R. Amarildo Gorgonha da Silva, 112 - Centro CEP: 18320-000",-24.4471702,-48.8397403,331143.0
+12,Apiaí,10 ,"R. Amarildo Gorgonha da Silva, 112 - Centro CEP: 18320-000",-24.4471702,-48.8397403,331138.0
 13,Araçariguama,10 ,"R. Amelia da Costa e Silva, 66 - Jardim Bela Vista CEP: 18147-000",-23.4272639,-47.0734335,52767.0
 14,Araçatuba,40 ,"R. Conselheiro Crispiniano, 550 - Jardim Alvorada CEP: 16016-090",-21.2338251,-50.42514749999999,517475.0
-15,Araçoiaba da Serra,10 ,"R. Professor Toledo, 756 - Centro CEP: 18190-000",-23.5046818,-47.622299,118958.0
-16,Arandu,10 ,"Av. José Serezin, 800 - Jardim Maria Sodré CEP: 18710-000",-23.1383651,-49.0596149,277753.0
+15,Araçoiaba da Serra,10 ,"R. Professor Toledo, 756 - Centro CEP: 18190-000",-23.5046818,-47.622299,118957.0
+16,Arandu,10 ,"Av. José Serezin, 800 - Jardim Maria Sodré CEP: 18710-000",-23.1385562,-49.05905,277639.0
 17,Araraquara,50 ,"Av. Romulo Lupo, 775 - Jardim Universal CEP: 14801-700",-21.792518,-48.2033091,275505.0
 18,Araras,35 ,"Av. Nestlé, 58 - Vila Michelin CEP: 13601-005",-22.3638961,-47.379047,164827.0
-19,Arealva,10 ,"Av. Prefeito Adelino Mendonça, S/N - Centro CEP: 17160-000",-22.0264442,-48.8940844,368669.0
+19,Arealva,10 ,"Av. Prefeito Adelino Mendonça, S/N - Centro CEP: 17160-000",-22.0264442,-48.8940844,368668.0
 20,Areias,10 ,"Av. Siqueira Campos, 501 - Centro CEP: 12820-000",-22.5811244,-44.6922754,249638.0
 21,Artur Nogueira,20 ,"R. XV de Novembro, 1400 - Jardim Planalto CEP: 13160-000",-22.5627065,-47.16278210000001,147289.0
 22,Arujá,30 ,"R. Mamede Barbosa, 105 - Centro CEP: 07400 - 820",-23.3860293,-46.3318498,45160.0
@@ -26,52 +26,52 @@
 24,Atibaia,35 ,"Av. Doutor Joviano Alvim, 112 - Alvinópolis CEP: 12942-613",-23.11609,-46.5625568,68650.0
 25,Avaré,30 ,"R. Doutor Antônio Ferreira Inocêncio, 394 - Vila Martins II CEP: 18701-510",-23.1099082,-48.9163922,267295.0
 26,Bady Bassitt,10 ,"R. Fernando Correia Pires, 500 - Colina Sul II CEP: 15115-000",-20.924912,-49.4539129,449418.0
-27,Bananal,10 ,"R. Leon Gilson, 33 - Centro CEP: 12850-000",-22.6816432,-44.322416,329038.0
-28,Bariri,10 ,"R. Regina Pizza Beltrame, 126 - Jardim Panorama CEP: 17250-000",-22.0653052,-48.7378981,319606.0
-29,Barra Bonita,10 ,"R. Carlos Tozelli, 07 - COHAB Coronel José Victorino de França CEP: 17340-000",-22.4724657,-48.5633387,289515.0
+27,Bananal,10 ,"R. Leon Gilson, 33 - Centro CEP: 12850-000",-22.6816432,-44.322416,329037.0
+28,Bariri,10 ,"R. Regina Pizza Beltrame, 126 - Jardim Panorama CEP: 17250-000",-22.0653052,-48.7378981,319608.0
+29,Barra Bonita,10 ,"R. Carlos Tozelli, 07 - COHAB Coronel José Victorino de França CEP: 17340-000",-22.4728113,-48.5787728,291687.0
 30,Barretos,35 ,"R. 21 de Abril, 240 - Derby Club CEP: 14787-240",-20.53402,-48.572938,424770.0
 31,Barrinha,10 ,"R. Francisco Osaki, 90 - Conj. Albertina Fossalussa CEP: 14860-000",-21.1789779,-48.1519181,350624.0
 32,Barueri,50 ,"Av. Andrômeda, 500 - Alphaville CEP: 06473-000",-23.4858161,-46.8608381,28555.0
-33,Bastos,10 ,"R. Almirante Alexandrino, 622 - Centro CEP: 17690-000",-21.9238006,-50.7331241,542390.0
+33,Bastos,10 ,"R. Almirante Alexandrino, 622 - Centro CEP: 17690-000",-21.9238006,-50.7331241,542401.0
 34,Bauru,50 ,"Av. Duque de Caxias, 16 - Higienópolis CEP: 17011-020",-22.3265484,-49.0606012,324472.0
 35,Bernardino de Campos,10 ,"Praça da Bandeira, 270 - Centro CEP: 18960-000",-23.5502181,-46.6387924,10654.0
-36,Bertioga,20 ,"Av. Tomé de Souza, 11833 - Indaiá CEP: 11250-000",-23.8119624,-46.0592207,112537.0
-37,Biritiba Mirim,10 ,"R. Maria Gema Melo de Oliveira, 250 - Jardim Yoneda CEP: 08940-000",-23.5688396,-46.0361622,85204.0
+36,Bertioga,20 ,"Av. Tomé de Souza, 11833 - Indaiá CEP: 11250-000",-23.8119624,-46.0592207,112549.0
+37,Biritiba Mirim,10 ,"R. Maria Gema Melo de Oliveira, 250 - Jardim Yoneda CEP: 08940-000",-23.5688396,-46.0361622,85216.0
 38,Boa Esperança do Sul,10 ,"R. Manoel de Marins, 585 - Centro CEP: 14930-000",-21.9902574,-48.383901,298601.0
-39,Bocaina,10 ,"R. 7 de Setembro, 178 - Centro CEP: 17240-000",-22.1102912,-48.5387323,298487.0
+39,Bocaina,10 ,"R. 7 de Setembro, 178 - Centro CEP: 17240-000",-22.1388967,-48.51890479999999,295505.0
 40,Boituva,20 ,"R. São Marcos, 455 - Parque Nossa Senhora das Graças CEP: 18550-000",-23.276894,-47.6629237,117018.0
-41,Bom Jesus dos Perdões,10 ,"Av. Eliseu Correa Dias, 325 - Jardim Belo Horizonte CEP: 12955-000",-23.1299445,-46.4706221,80999.0
+41,Bom Jesus dos Perdões,10 ,"Av. Eliseu Correa Dias, 325 - Jardim Belo Horizonte CEP: 12955-000",-23.1299445,-46.4706221,82698.0
 42,Borborema,10 ,"R. José Theodoro Puzzi, 515 - Vila Mariana CEP: 14955-000",-23.589702,-46.6346381,10446.0
-43,Botucatu,35 ,"Praça Dom Luiz Maria de Sant'Ana, 215 - Centro CEP: 18600-311",-22.8863137,-48.4458873,233197.0
-44,Bragança Paulista,40 ,"R. das Indústrias, 130 - Uberaba CEP: 12926-674",-22.9226007,-46.5458992,96522.0
-45,Braúna,10 ,"Av. Barão do Rio Branco, 465 - Centro CEP: 16290-000",-25.4339095,-49.2669344,401442.0
-46,Brodowski,10 ,"R. Carlos Chagas, 590 - Nosa Senhora das Graças CEP: 14340-000",-20.9797045,-47.6467302,335853.0
+43,Botucatu,35 ,"Praça Dom Luiz Maria de Sant'Ana, 215 - Centro CEP: 18600-311",-22.8863137,-48.4458873,233196.0
+44,Bragança Paulista,40 ,"R. das Indústrias, 130 - Uberaba CEP: 12926-674",-22.9226007,-46.5458992,96785.0
+45,Braúna,10 ,"Av. Barão do Rio Branco, 465 - Centro CEP: 16290-000",-25.4339095,-49.2669344,401447.0
+46,Brodowski,10 ,"R. Carlos Chagas, 590 - Nosa Senhora das Graças CEP: 14340-000",-20.9797045,-47.6467302,335776.0
 47,Cabreúva,15 ,"Via das Palmas, 101 - Pinhal CEP: 13315-000",-23.2592916,-47.1049136,76694.0
 48,Caçapava,35 ,"R. André Santos de Oliveira Lima, 15 - Vila André Martins CEP: 12280-096",-23.0873366,-45.7084233,119540.0
 49,Cachoeira Paulista,10 ,"R. Doutor Bernardino de Campos, 130 - Centro CEP: 12630-000",-22.6637575,-45.0080864,206177.0
-50,Caconde,10 ,"Praça Coronel Gustavo Ribeiro, 92 - Caconde CEP: 13770-000",-21.528779,-46.6439049,283868.0
+50,Caconde,10 ,"Praça Coronel Gustavo Ribeiro, 92 - Caconde CEP: 13770-000",-21.528779,-46.6439049,283864.0
 51,Cafelândia,10 ,"Pátio da Estação - 01, S/N - Cafelândia CEP: 16500-000",-21.8031143,-49.6099581,409898.0
 52,Caieiras,35 ,"Praça Cláudio Manoel da Costa, S/N - Laranjeiras CEP: 07739-075",-23.3999211,-46.7032095,28470.0
-53,Cajamar,25 ,"R. Pedro Domingues, S/N - Centro CEP: 07750-830",-23.356109,-46.8788111,41397.0
-54,Cajati,10 ,"R. Roma, 408 - Vila Antunes CEP: 11950-000",-24.7353477,-48.1114398,227450.0
-55,Cajobi,10 ,"R. Olga Bernardes Zanterlini, 320 - Centro CEP: 15410-000",-20.8766287,-48.8081539,420161.0
+53,Cajamar,25 ,"R. Pedro Domingues, S/N - Centro CEP: 07750-830",-23.356109,-46.8788111,41398.0
+54,Cajati,10 ,"R. Roma, 408 - Vila Antunes CEP: 11950-000",-24.7353477,-48.1114398,227457.0
+55,Cajobi,10 ,"R. Olga Bernardes Zanterlini, 320 - Centro CEP: 15410-000",-20.8766287,-48.8081539,420162.0
 56,Campinas,100 ,"R. Doutor Emílio Ribas, 880 - Cambuí CEP: 13025-141",-22.8966905,-47.0508716,91479.0
 57,Campo Limpo Paulista,30 ,"R. Maria do Carmo, 11 - Vila Cardoso CEP: 13230-450",-23.2083195,-46.7850743,56266.0
-58,Campos do Jordão,15 ,"R. Miguel Pereira, 235 - Abernéssia CEP: 12460-000",-22.7400896,-45.58967879999999,185339.0
-59,Capão Bonito,15 ,"R. Bernardino de Campos, 477 - Centro CEP: 18300-040",-24.0044735,-48.3497212,227090.0
+58,Campos do Jordão,15 ,"R. Miguel Pereira, 235 - Abernéssia CEP: 12460-000",-22.7400896,-45.58967879999999,185351.0
+59,Capão Bonito,15 ,"R. Bernardino de Campos, 477 - Centro CEP: 18300-040",-24.0044449,-48.3497336,227085.0
 60,Capela do Alto,10 ,"Av. Professor Castorino de Almeida, 300 - Centro CEP: 18157-000",,,
 61,Capivari,20 ,"R. Antônio Ribeiro de Godoy, S/N - Capivari CEP: 13360-000",-23.0091644,-47.522149,135389.0
-62,Caraguatatuba,35 ,"R. João Marcelo, 302 - Estrela D´alva CEP: 11660-600",-23.6204802,-45.4201322,175724.0
+62,Caraguatatuba,35 ,"R. João Marcelo, 302 - Estrela D´alva CEP: 11660-600",-23.6204802,-45.4201322,175742.0
 63,Carapicuíba,50 ,"Av. Ernestina Vieira, 149 - Vila Dirce CEP: 06382 - 260",-23.5530454,-46.8375451,27644.0
-64,Casa Branca,10 ,"Av. Renato Pistelli, 810 - Centro CEP: 13700-000",-21.7737523,-47.0698208,222119.0
+64,Casa Branca,10 ,"Av. Renato Pistelli, 810 - Centro CEP: 13700-000",-21.7737523,-47.0698208,222115.0
 65,Catanduva,35 ,"Av. Daniel Dalto, S/N - Expansão 1 CEP: 15811-044",-21.1636257,-48.9825598,381713.0
 66,Cerqueira César,10 ,"Rod. Donato Francisco Sassi, Km 5 - Macucão CEP: 18760-000",-23.092514,-49.166234,292090.0
 67,Cerquilho,15 ,"Av. Corradi II, 380 - Centro CEP: 18520-000",-23.1652366,-47.7470974,143779.0
 68,Cesário Lange,10 ,"R. Camargo Barros, 1210 - Centro CEP: 18285-000",-23.2259494,-47.9672947,148572.0
-69,Charqueada,10 ,"R. Querubim Ferreira de Almeida, 251 - Jardim Gelsomina CEP: 13515-000",-22.5019939,-47.7731937,184492.0
+69,Charqueada,10 ,"R. Querubim Ferreira de Almeida, 251 - Jardim Gelsomina CEP: 13515-000",-22.5185625,-47.7440315,180785.0
 70,Chavantes,10 ,"R. Maestro Carlos Gomes, 399 - Centro CEP: 18970-000",-23.0392521,-49.7065902,369276.0
 71,Colina,10 ,"Praça Lamounier de Andrade, 101 - Centro CEP: 14770-000",-20.7150597,-48.5463759,404916.0
-72,Conchal,10 ,"R. Álvaro Ribeiro, 287 - Centro CEP: 13835-000",-22.3315384,-47.1730496,168333.0
+72,Conchal,10 ,"R. Álvaro Ribeiro, 287 - Centro CEP: 13835-000",-22.3315384,-47.1730496,168332.0
 73,Conchas,10 ,"R. Bahia, 78 - Centro CEP: 18570-000",-23.0136559,-48.0087391,174661.0
 74,Cordeirópolis,10 ,"R. Galdino de Souza Barbosa, 400 - Jardim Cordeiro CEP: 13490-000",-22.4838883,-47.4754368,158680.0
 75,Cosmópolis,25 ,"Av. da Saudade, 528 - Vila José Kalil Aun CEP: 13150-000",-22.6450307,-47.185015,134975.0
@@ -81,36 +81,36 @@
 79,Cubatão,35 ,"Av. Doutor Fernando Costa, 1096 - Costa CEP: 11510-310",-23.8820597,-46.4269355,69451.0
 80,Cunha,10 ,"Ladeira Vinte de Abril, S/N - Centro CEP: 12530-000",-23.0757621,-44.957096,226059.0
 81,Diadema,50 ,"R. Lauro Michels, 30 - Centro CEP: 09910-970",-23.6859806,-46.62094980000001,23892.0
-82,Dois Córregos,10 ,"Av. Vasco da Gama, 164 - Jardim Arco CEP: 17300-000",-22.3637592,-48.39325580000001,283940.0
-83,Dourado,10 ,"R. José Bustani, 600 - Jardim Paulista CEP: 13590-000",-22.1078914,-48.3123405,275035.0
+82,Dois Córregos,10 ,"Av. Vasco da Gama, 164 - Jardim Arco CEP: 17300-000",-22.365386,-48.3915519,284120.0
+83,Dourado,10 ,"R. José Bustani, 600 - Jardim Paulista CEP: 13590-000",-22.1169419,-48.31766529999999,275866.0
 84,Dracena,15 ,"Av. José Bonifácio, 267 - Vila CEP: 17900-000",-21.4956783,-51.5366378,665084.0
-85,Dumont,10 ,"R. João Negri, 412 - Jd Adelaide CEP: 14120-000",-21.2425351,-47.975221,330026.0
-86,Eldorado,10 ,"R. Padre Joaquim Gabriel, 161 - Centro CEP: 11960-000",-24.521166,-48.1094301,239829.0
-87,Elias Fausto,10 ,"Av. Osvaldo Maluf, 250 - Vila Anchieta CEP: 13350-000",-23.0475391,-47.3668294,123346.0
+85,Dumont,10 ,"R. João Negri, 412 - Jd Adelaide CEP: 14120-000",,,
+86,Eldorado,10 ,"R. Padre Joaquim Gabriel, 161 - Centro CEP: 11960-000",-24.521166,-48.1094301,239836.0
+87,Elias Fausto,10 ,"Av. Osvaldo Maluf, 250 - Vila Anchieta CEP: 13350-000",-23.0475391,-47.3668294,123345.0
 88,Embu das Artes,50 ,"R. Alberto Giosa, 320 - Jardim CEP: 06803-280",-23.6586269,-46.85537600000001,29249.0
 89,Engenheiro Coelho,10 ,"R. Alexandre Bonin, 403 - Jardim do Sol CEP: 13165-000",-22.4927494,-47.2073024,155871.0
-90,Espírito Santo do Pinhal,15 ,"Praça Irmão Estevão Von Herkhnuizen, S/N - Jardim das Rosas CEP: 13990-000",-22.1755019,-46.805914,190983.0
-91,Estiva Gerbi,10 ,"R. José Rodrigues dos Santos, 271 - São José II CEP: 13857-000",-23.223701,-45.9009074,92502.0
+90,Espírito Santo do Pinhal,15 ,"Praça Irmão Estevão Von Herkhnuizen, S/N - Jardim das Rosas CEP: 13990-000",-22.1755019,-46.805914,190981.0
+91,Estiva Gerbi,10 ,"R. José Rodrigues dos Santos, 271 - São José II CEP: 13857-000",-22.2327091,-46.9513691,170352.0
 92,Fartura,10 ,"R. Santa Maria, 60 - Vila Nossa Senhora de Fátima CEP: 18870-000",-23.3833047,-49.5048217,357832.0
-93,Fernandópolis,25 ,"Av. Litério Grecco, 300 - Jardim São Fernando CEP: 15600-000",-20.273548,-50.2288572,547925.0
-94,Flora Rica,10 ,"R. Verador Raimundo Antônio de Araújo, 416 - Centro CEP: 17870-000",-21.675914,-51.37998160000001,615967.0
-95,Flórida Paulista,10 ,"Av. dos Expedicionários, 190 - Centro CEP: 17830-000",-21.6137497,-51.1703653,589578.0
+93,Fernandópolis,25 ,"Av. Litério Grecco, 300 - Jardim São Fernando CEP: 15600-000",-20.273548,-50.2288572,547960.0
+94,Flora Rica,10 ,"R. Verador Raimundo Antônio de Araújo, 416 - Centro CEP: 17870-000",-21.675914,-51.37998160000001,615966.0
+95,Flórida Paulista,10 ,"Av. dos Expedicionários, 190 - Centro CEP: 17830-000",-21.6137497,-51.1703653,597761.0
 96,Franca,50 ,"Av. Champagnat, 1808 - Centro CEP: 14400-320",-20.5453519,-47.4012559,393400.0
-97,Francisco Morato,40 ,"R. Virgílio Martins de Oliveira, 824 - Vila Heloísa CEP: 07914-043",-23.2810905,-46.7516253,44383.0
+97,Francisco Morato,40 ,"R. Virgílio Martins de Oliveira, 824 - Vila Heloísa CEP: 07914-043",-23.2810905,-46.7516253,44395.0
 98,Franco da Rocha,40 ,"R. Cinco de Maio, 97 - Vila Maggi CEP: 07850-300",-23.3297193,-46.7256009,39359.0
-99,Garça,15 ,"R. Padre Paulo de Toledo Leite, 411 - Ferrarópolis CEP: 17400-000",-22.207645,-49.65802000000001,401618.0
-100,Gavião Peixoto,10 ,"Alameda Serez, 495 - Centro CEP: 14813-000",,,
+99,Garça,15 ,"R. Padre Paulo de Toledo Leite, 411 - Ferrarópolis CEP: 17400-000",-22.207645,-49.65802000000001,409813.0
+100,Gavião Peixoto,10 ,"Alameda Serez, 495 - Centro CEP: 14813-000",-21.8137228,-48.4587382,300310.0
 101,Guaíra,15 ,"Av. 1A, 2000 - Conjunto Habitacional Prefeito José Pugliesi CEP: 14790-000",-20.3200638,-48.312419,445299.0
-102,Guapiaçu,10 ,"R. Alfredo de Souza Barbeiro, 280 - Ribeirão Claro CEP: 15110-000",-20.7999367,-49.2233815,437373.0
+102,Guapiaçu,10 ,"R. Alfredo de Souza Barbeiro, 280 - Ribeirão Claro CEP: 15110-000",-20.799733,-49.2234971,437391.0
 103,Guara,10 ,"R. João Carlos Figueiredo, 11 - Centro CEP: 14580-000",-20.4256578,-47.8202137,397167.0
 104,Guaraci,10 ,"Praça Oscar Baptista de Carvalho, 657 - Centro CEP: 15420-000",-20.4987244,-48.9457122,457986.0
 105,Guararapes,10 ,"R. José Dalla Pria, 177 - Jardim Continental CEP: 16.700-000",-21.2394142,-50.6473534,540005.0
-106,Guararema,10 ,"R. Doutor Armindo, 567 - Nogueira CEP: 08900-000",-23.418322,-46.031276,84179.0
+106,Guararema,10 ,"R. Doutor Armindo, 567 - Nogueira CEP: 08900-000",-23.418322,-46.031276,84191.0
 107,Guaratinguetá,35 ,"Praça Condessa de Frontin, 76 - Centro CEP: 12500-180",-22.8140798,-45.19142979999999,180039.0
-108,Guareí,10 ,"R. Tiradentes, 100 - Centro CEP: 18250-000",-21.1100035,-44.1733017,485876.0
+108,Guareí,10 ,"R. Tiradentes, 100 - Centro CEP: 18250-000",-21.1100035,-44.1733017,485875.0
 109,Guariba,10 ,"R. Rui Barbosa, 1244 - Jardim Progresso CEP: 14840-000",-21.3586779,-48.2207442,337005.0
 110,Guarujá,50 ,"Av. Adriano Dias dos Santos, 611 - Jardim Boa Esperança CEP: 11470-220",-23.9600223,-46.2792392,96399.0
-111,Guarulhos,50 ,"Av. Monteiro Lobato, 734 - Macedo CEP: 07112-000",-23.4579547,-46.4887252,27713.0
+111,Guarulhos,50 ,"Av. Monteiro Lobato, 734 - Macedo CEP: 07112-000",-23.4579547,-46.4887252,27725.0
 112,Herculandia,10 ,"R. XV de Novembro, 331 - Centro CEP: 17650-000",-23.5461226,-46.6343728,8514.0
 113,Hortolândia,50 ,"R. Capitão Lourival Mey, 750 - Jardim Santana CEP: 13184-470",-22.8723376,-47.2095926,105535.0
 114,Iacanga,10 ,"R. Antonio Trentim, 263 - Jardim Paraíso CEP: 17180-000",-21.8972704,-49.0251114,373468.0
@@ -120,91 +120,91 @@
 118,Igaraçu do Tietê,10 ,"R. Virgílio Tuschi, 200 - Cohab CEP: 17350-000",-22.523715,-48.56642129999999,283105.0
 119,Igarapava,10 ,"R. Azarias Arantes, S/N - Prédio PUAMI CEP: 14540-000",-20.0351832,-47.7434534,443831.0
 120,Igaratá,10 ,"R. José de Souza Palau, S/N - Jardim Rosa Helena CEP: 12350-000",-23.2097337,-46.1612199,94454.0
-121,Iguape,10 ,"Rod. Prefeito Casemiro Teixeira, 450 - Teixeira CEP: 11920-000",-24.692474,-47.563732,197012.0
-122,Ilha Comprida,10 ,"R. Bermudas, 531 - Balneário Monte Carlo CEP: 11925-000",-24.7383628,-47.5558325,205446.0
+121,Iguape,10 ,"Rod. Prefeito Casemiro Teixeira, 450 - Teixeira CEP: 11920-000",-24.6928561,-47.5640387,197078.0
+122,Ilha Comprida,10 ,"R. Bermudas, 531 - Balneário Monte Carlo CEP: 11925-000",-24.7383628,-47.5558325,205454.0
 123,Ilha Solteira,10 ,"R. Parati, 513 - Zona Sul CEP: 15385-000",-20.4321287,-51.3419269,680917.0
-124,Ilhabela,10 ,"Av. Professor Malaquias de Oliveira Freitas, 95 - Barra Velha CEP: 11630-000",-23.8230789,-45.3778353,205089.0
+124,Ilhabela,10 ,"Av. Professor Malaquias de Oliveira Freitas, 95 - Barra Velha CEP: 11630-000",-23.8230789,-45.3778353,205093.0
 125,Indaiatuba,50 ,"R. Dom Pedro I, 65 - Cidade Nova CEP: 13334-100",-23.0859452,-47.2026136,99131.0
 126,Ipaussu,10 ,"R. Domingos Fernandes, 240 - Centro CEP: 18950-000",-23.0505759,-49.6273527,357991.0
-127,Iperó,10 ,"R. Luiz Rossi, 107 - Jardim Irene CEP: 18560-000",-23.3481579,-47.6940232,122800.0
-128,Ipeúna,10 ,"R. Araripe Custódio da Fonseca, 775 - Altos de Ipeúna CEP: 13537-000",-22.4327153,-47.708685,190872.0
-129,Iporanga,10 ,"R. Pedro Silva, S/N - Centro CEP: 18330-000",-24.58344,-48.59259669999999,309839.0
+127,Iperó,10 ,"R. Luiz Rossi, 107 - Jardim Irene CEP: 18560-000",-23.3481579,-47.6940232,122814.0
+128,Ipeúna,10 ,"R. Araripe Custódio da Fonseca, 775 - Altos de Ipeúna CEP: 13537-000",-22.4360082,-47.7154556,191101.0
+129,Iporanga,10 ,"R. Pedro Silva, S/N - Centro CEP: 18330-000",-24.58344,-48.59259669999999,309846.0
 130,Itaberá,10 ,"R. Josephina Silva Melo, 365 - Centro CEP: 18440-000",-23.8621198,-49.1335172,319977.0
-131,Itaí,10 ,"R. Abílio Raposo Ferraz, 405 - Vila Jardim Brasil CEP: 18730-000",-23.4149494,-49.0983661,303841.0
+131,Itaí,10 ,"R. Abílio Raposo Ferraz, 405 - Vila Jardim Brasil CEP: 18730-000",-23.4149494,-49.0983661,303840.0
 132,Itajobi,10 ,"R. Cincinato Braga, 240 - Centro CEP: 15840-000",-21.3147607,-49.0593546,400046.0
-133,Itaju,10 ,"R. Antonio de Antonio, 70 - Centro CEP: 17260-000",-21.9503361,-48.7794089,337326.0
-134,Itanhaém,35 ,"Av. Condessa de Vimieiros, 1131 - Centro CEP: 11740-000",-24.179289,-46.7782506,113276.0
+133,Itaju,10 ,"R. Antonio de Antonio, 70 - Centro CEP: 17260-000",-21.9842175,-48.803062,331657.0
+134,Itanhaém,35 ,"Av. Condessa de Vimieiros, 1131 - Centro CEP: 11740-000",-24.179289,-46.7782506,113267.0
 135,Itaoca,10 ,"R. Sete de Setembro, 11 - Centro CEP: 18360-000",,,
 136,Itapecerica da Serra,40 ,"R. São João, 47 - Centro CEP: 06850-060",-23.7154168,-46.8509264,36696.0
 137,Itapetininga,40 ,"Av. Dr Cyro de Albuquerque, 4750 - Taboãozinho CEP: 18213-615",-23.571788,-47.99376909999999,165547.0
 138,Itapeva,35 ,"R. Lucas de Camargo, 419 - Camargo CEP: 18400-340",-23.9843765,-48.8766348,286062.0
 139,Itapevi,50 ,"R. Professor Irineu Chaluppe, 65 - Chaluppe CEP: 06653-180",-23.5451038,-46.9318918,37053.0
 140,Itápolis,15 ,"R. Rodrigues Alves, 1703 - Cecap CEP: 14900-000",-21.6046205,-48.8114012,355905.0
-141,Itaporanga,10 ,"R. João Scotti Siqueira, 535 - Vila Alvorada CEP: 18480-000",-23.7102359,-49.4952996,363928.0
+141,Itaporanga,10 ,"R. João Scotti Siqueira, 535 - Vila Alvorada CEP: 18480-000",-23.7102359,-49.4952996,363873.0
 142,Itapuí,10 ,"Av. Paes de Barros, 262 - Centro CEP: 17.230-000",-23.5578485,-46.6007021,11461.0
-143,Itaquaquecetuba,50 ,"R. MMDC, 92 - Centro CEP: 08570-007",-23.4789029,-46.354209,44916.0
+143,Itaquaquecetuba,50 ,"R. MMDC, 92 - Centro CEP: 08570-007",-23.4789029,-46.354209,44928.0
 144,Itarare,15 ,"R. 28 de Agosto, 405 - Centro CEP: 18460-000",-24.1128412,-49.3311906,341706.0
-145,Itariri,10 ,"R. Nabe Kian, 60 - Continental CEP: 11760-000",-24.2884391,-47.17399469999999,148664.0
-146,Itatiba,35 ,"Av. Urbano Bezana, S/N - Porto Seguro CEP: 13255-650",-23.0278635,-46.8501789,78036.0
+145,Itariri,10 ,"R. Nabe Kian, 60 - Continental CEP: 11760-000",-24.2884391,-47.17399469999999,148672.0
+146,Itatiba,35 ,"Av. Urbano Bezana, S/N - Porto Seguro CEP: 13255-650",-23.0277457,-46.8503117,78054.0
 147,Itu,40 ,"Av. Tiradentes, 1211 - Parque CEP: 13309-640",-23.2899097,-47.2960569,92229.0
 148,Itupeva,20 ,"R. Mairinque, 715 - Residencial Pacaembú I CEP: 13295-000",-23.1551983,-47.041258,67754.0
 149,Ituverava,15 ,"R. Xaraies, 50 - Jardim Marajoara CEP: 14500-000",-20.3295806,-47.7884332,409094.0
 150,Jaboticabal,25 ,"R. General Osório, 215 - Centro CEP: 14870-050",-21.2599598,-48.3188929,339842.0
 151,Jacareí,50 ,"R. Faria Lima, 155 - Jardim Santa Maria CEP: 12328-070",-23.2949846,-45.96649180000001,84578.0
-152,Jacupiranga,10 ,"Av. 23 de Junho, 649 - Vila Elias CEP: 11940-000",-24.7028031,-48.00703739999999,215179.0
-153,Jaguariúna,20 ,"R. Bahia, 140 - Jardim São João CEP: 13911-454",-12.579738,-41.7007272,1728255.0
-154,Jambeiro,10 ,"R. Coronel Batista, 267 - Centro CEP: 12270-000",-23.2572351,-45.6919638,123895.0
+152,Jacupiranga,10 ,"Av. 23 de Junho, 649 - Vila Elias CEP: 11940-000",-24.7023906,-48.0067413,215261.0
+153,Jaguariúna,20 ,"R. Bahia, 140 - Jardim São João CEP: 13911-454",-22.7007009,-46.9874011,117797.0
+154,Jambeiro,10 ,"R. Coronel Batista, 267 - Centro CEP: 12270-000",-23.2572351,-45.6919638,123907.0
 155,Jandira,35 ,"R. Francisco de Araujo Chaves, 120 - Araujo CEP: 06626-020",-23.5412883,-46.9090307,38360.0
 156,Jaú,40 ,"R. Quintino Bocaiuva, 532 - Centro CEP: 17201-470",-22.2951587,-48.5601192,295640.0
 157,José Bonifácio,10 ,"Av. Nove de Julho, 170 - Centro CEP: 15200-000",-21.0515591,-49.6907785,478988.0
-158,Juquiá,10 ,"R. Rio Grande do Sul, 120 - Parque Nacional CEP: 11800-000",-30.0346316,-51.2176986,1129109.0
-159,Juquitiba,10 ,"Av. Juscelino Kubitschek de Oliveira, 90 - Centro CEP: 06950-000",-23.03322,-45.5620243,133069.0
-160,Lagoinha,10 ,"R. Agostinho Ribeiro dos Santos, 230 - Centro CEP: 12130-000",-23.0902178,-45.1896306,196451.0
-161,Laranjal Paulista,10 ,"R. General Osório, 50 - Centro CEP: 18500-000",-23.0479374,-47.8360693,155387.0
+158,Juquiá,10 ,"R. Rio Grande do Sul, 120 - Parque Nacional CEP: 11800-000",-30.0346316,-51.2176986,1129105.0
+159,Juquitiba,10 ,"Av. Juscelino Kubitschek de Oliveira, 90 - Centro CEP: 06950-000",-23.9373124,-47.0972424,74332.0
+160,Lagoinha,10 ,"R. Agostinho Ribeiro dos Santos, 230 - Centro CEP: 12130-000",-23.0902178,-45.1896306,196463.0
+161,Laranjal Paulista,10 ,"R. General Osório, 50 - Centro CEP: 18500-000",-23.0479374,-47.8360693,155386.0
 162,Leme,35 ,"R. Emílio Violin, 194 - Bela Vista CEP: 13611-412",-22.1874801,-47.38041519999999,185316.0
 163,Lençóis Paulista,25 ,"Av. Lázaro Brigido Dutra, 2000 - Jardim Ibaté CEP: 18682-335",-22.6250485,-48.7923319,281104.0
 164,Limeira,50 ,"R. Piauí, 472 - Vila Cláudia CEP: 13480-406",-22.5727406,-47.4029274,143659.0
-165,Lins,25 ,"Estrada Mário Covas Junior (Lins Guaimbê), km 1 - Vila Guararapes CEP: 16403-025",-21.698322,-49.7502455,426963.0
+165,Lins,25 ,"Estrada Mário Covas Junior (Lins Guaimbê), km 1 - Vila Guararapes CEP: 16403-025",-21.698322,-49.7502455,426962.0
 166,Lorena,30 ,"Av. São José, 150 - Vila Buck CEP: 12600-560",,,
 167,Louveira,15 ,"R. Pasquel Dinofre, 82 - Santo Antônio CEP: 13290-000",-23.083129,-46.9751123,66895.0
-168,Lucélia,10 ,"R. Eduardo Rapacci, 475 - Centro CEP: 17780-000",-21.7212012,-51.0236019,569665.0
+168,Lucélia,10 ,"R. Eduardo Rapacci, 475 - Centro CEP: 17780-000",-21.7212012,-51.0236019,578190.0
 169,Luiz Antônio,10 ,"Av. Independência, 369 - Centro CEP: 14210-000",-21.6065217,-47.7243139,278710.0
 170,Macatuba,10 ,"R. Capitão Salvador Mariano de Pontes, 160 - Centro CEP: 17290-000",-22.5174518,-48.725327,296803.0
 171,Mairinque,15 ,"Av. Doutor Ricardo Gaspar Júnior, 172 - Centro CEP: 18120-000",-23.546249,-47.1839155,71428.0
 172,Mairiporã,35 ,"Av. Tabelião Passarela, 850 - Centro CEP: 07600-000",-23.3190621,-46.5903012,43028.0
 173,Maracaí,10 ,"Av. São Paulo, 885 - Centro CEP: 19840-000",-23.5505199,-46.63330939999999,11539.0
-174,Marília,50 ,"Av. Monte Carmelo, 800 - Fragata CEP: 17519-030",-22.226786,-49.9367549,430045.0
+174,Marília,50 ,"Av. Monte Carmelo, 800 - Fragata CEP: 17519-030",-22.226786,-49.9367549,438228.0
 175,Matão,30 ,"Av. Daniel Antônio de Brito, 241 - Nova Matão CEP: 15990-560",-21.6131982,-48.3607008,301378.0
-176,Mauá,50 ,"R. São João, 183 - Núcleo Cincinato Braga CEP: 09310-380",-23.5683118,-46.6460963,5909.0
+176,Mauá,50 ,"R. São João, 183 - Núcleo Cincinato Braga CEP: 09310-380",-23.6693938,-46.4277965,57025.0
 177,Mineiros do Tietê,10 ,"R. Municipal, 445 - Centro CEP: 17320-000",-22.4076608,-48.4520479,291983.0
-178,Miracatu,10 ,"Av. Dona Evarista de Castro Ferreira, 08 - Centro CEP: 11850-000",-24.1465216,-47.3706554,122407.0
+178,Miracatu,10 ,"Av. Dona Evarista de Castro Ferreira, 08 - Centro CEP: 11850-000",-24.1465216,-47.3706554,122415.0
 179,Mirante do Paranapanema,10 ,"Av. Joaquim Juca de Góes, 882 - Centro CEP: 19260 - 000",-22.298465,-51.91006,608133.0
-180,Mococa,25 ,"Av. Dr. Américo Pereira Lima, S/N - Pereira CEP: 13736-260",-21.4743376,-47.008062,256210.0
-181,Mogi das Cruzes,50 ,"R. Antenor Leite da Cunha, 55 - Nova Mogilar CEP: 08773-395",-23.5093775,-46.1848615,65328.0
-182,Mogi Mirim,30 ,"R. Ariovaldo Silveira Franco, 567 - Franco CEP: 13801-005",-22.4232298,-46.9495631,150239.0
+180,Mococa,25 ,"Av. Dr. Américo Pereira Lima, S/N - Pereira CEP: 13736-260",-21.4743376,-47.008062,256206.0
+181,Mogi das Cruzes,50 ,"R. Antenor Leite da Cunha, 55 - Nova Mogilar CEP: 08773-395",-23.5093775,-46.1848615,65339.0
+182,Mogi Mirim,30 ,"R. Ariovaldo Silveira Franco, 567 - Franco CEP: 13801-005",-22.4232298,-46.9495631,150396.0
 183,Monte Alto,15 ,"Av. Maria Deamo Tarraga, 221 - Real Paraíso CEP: 15910-000",-21.2778628,-48.5152959,351920.0
 184,Monte Azul Paulista,10 ,"Praça Macedo Soares, 13 - Centro CEP: 14730-000",-20.8890637,-48.6790007,402178.0
 185,Monte Mor,20 ,"R. Chequer Assis, 232 - Centro CEP: 13190000",-22.9470344,-47.3134526,117677.0
 186,Morro Agudo,10 ,"R. Barão do Rio Branco, 722 - Centro CEP: 14640-000",-20.7339345,-48.0552111,377329.0
-187,Morungaba,10 ,"R. Treze de Maio, 540 - Santo Antônio CEP: 13260-000",-22.8877661,-46.7671967,109059.0
+187,Morungaba,10 ,"R. Treze de Maio, 540 - Santo Antônio CEP: 13260-000",-22.8877661,-46.7671967,109463.0
 188,Motuca,10 ,"R. São Luiz, 121 - Centro CEP: 14835-000",-21.5081451,-48.152446,307475.0
-189,Murutinga do Sul,10 ,"R. Antônio Calestini, 316 - Centro CEP: 16950-000",-20.9899954,-51.2788847,611853.0
-190,Narandiba,10 ,"R. Maira Conceição Cassiano, 499 - São Francisco CEP: 19220-000",-23.5431786,-46.6291845,9516.0
-191,Nova Granada,10 ,"R. Julio Frasson, 512 - Estação CEP: 15440-000",-20.5435068,-49.3267471,467980.0
-192,Novo Horizonte,15 ,"Alameda Roberto Dela Togna, 1233 - Togna CEP: 14960-000",-21.4664504,-49.2279582,402554.0
+189,Murutinga do Sul,10 ,"R. Antônio Calestini, 316 - Centro CEP: 16950-000",-20.9899954,-51.2788847,611852.0
+190,Narandiba,10 ,"R. Maira Conceição Cassiano, 499 - São Francisco CEP: 19220-000",-13.541478,-43.4440468,1527887.0
+191,Nova Granada,10 ,"R. Julio Frasson, 512 - Estação CEP: 15440-000",-20.5435068,-49.3267471,473327.0
+192,Novo Horizonte,15 ,"Alameda Roberto Dela Togna, 1233 - Togna CEP: 14960-000",-21.4664504,-49.2279582,403338.0
 193,Olímpia,20 ,"R. Bernardino de Campos, 366 - Centro CEP: 15400-000",-20.736202,-48.9077123,433880.0
-194,Orlandia,15 ,"Av. M, 980 - Jardim Siena CEP: 14620-000",-20.7146442,-47.86810089999999,364253.0
+194,Orlandia,15 ,"Av. M, 980 - Jardim Siena CEP: 14620-000",-20.7146442,-47.86810089999999,364237.0
 195,Osasco,100 ,"R. Marechal Rondon, 263 - Centro CEP: 06093-020",-23.5318213,-46.7811388,19157.0
 196,Ourinhos,35 ,"Av. Vitalina Marcusso, 1400 - Campo CEP: 19910-206",-22.9507677,-49.8961666,374194.0
-197,Ouroeste,10 ,"Av. dos Bandeirantes, 2050 - Centro CEP: 15685-000",-19.9920825,-50.3784425,587438.0
-198,Pacaembu,10 ,"R. Amador Rodrigues, 349 - Vila CEP: 17860-000",-21.5637092,-51.26677660000001,600803.0
+197,Ouroeste,10 ,"Av. dos Bandeirantes, 2050 - Centro CEP: 15685-000",-19.9920825,-50.3784425,587428.0
+198,Pacaembu,10 ,"R. Amador Rodrigues, 349 - Vila CEP: 17860-000",-21.5637092,-51.26677660000001,608986.0
 199,Paraguaçu Paulista,15 ,"R. Prefeito Jaime Monteiro, 796 - Monteiro CEP: 19700-000",-22.4150348,-50.5817391,464057.0
-200,Paraibuna,10 ,"R. Geraldo Santana, 55 - Centro CEP: 12260-000",-23.3892444,-45.6610273,128420.0
-201,Paranapanema,10 ,"Av. das Posses, 279 - Distrito de Campos de Holambra CEP: 18725-000",-22.6409997,-47.0491411,124714.0
+200,Paraibuna,10 ,"R. Geraldo Santana, 55 - Centro CEP: 12260-000",-23.3892444,-45.6610273,128437.0
+201,Paranapanema,10 ,"Av. das Posses, 279 - Distrito de Campos de Holambra CEP: 18725-000",-22.6409997,-47.0491411,124713.0
 202,Paulistania,10 ,"R. Iderme Tenca Junior, 39 - Vila Manoel CEP: 17150-000",,,
 203,Paulo de Faria,10 ,"Av. Joaquim Correa de Morais, 730 - Centro CEP: 15490-000",-20.0258821,-49.40275949999999,526769.0
 204,Pederneiras,15 ,"Av. Paulista (complemento Sul), 377 - Centro CEP: 17280-000",-23.5631043,-46.6543825,5226.0
-205,Pedreira,15 ,"R. João Lúcio de Moraes, 270 - Jardim Triunfo CEP: 13920-000",-22.7207433,-46.896652,133039.0
+205,Pedreira,15 ,"R. João Lúcio de Moraes, 270 - Jardim Triunfo CEP: 13920-000",-22.7207433,-46.896652,133069.0
 206,Pedro de Toledo,10 ,"R. Vasconcelos, 345 - Centro CEP: 11790-000",,,
 207,Penápolis,20 ,"Av. Goiás, 448 - Vila América CEP: 16300-000",-21.4130303,-50.0799715,476300.0
 208,Pereiras,10 ,"R. Carlos Muccini, 123 - Centro CEP: 18580-000",-23.07487,-47.9750252,164688.0
@@ -216,36 +216,36 @@
 214,Pirajuí,10 ,"Praça Doutor Pedro da Rocha Braga, 155 - Centro CEP: 16600-000",-21.9944381,-49.4576564,380744.0
 215,Pirassununga,25 ,"Av. Brasil, 1053 - Vila Esperança CEP: 13635-104",-21.9718032,-47.4271736,210505.0
 216,Pitangueiras,10 ,"R. Reinaldo Consoli, 35 - Vila Caroni CEP: 14750-000",-21.0043055,-48.2118203,363584.0
-217,Poá,35 ,"Av. Alfredo Maurício Varela, 41 - Vila Varela CEP: 08558-230",-23.5096948,-46.3372008,48244.0
-218,Pompéia,10 ,"R. Epaminondas de Toledo Pizza, S/N - Centro CEP: 17580-000",-22.1050775,-50.1676346,464925.0
+217,Poá,35 ,"Av. Alfredo Maurício Varela, 41 - Vila Varela CEP: 08558-230",-23.5096948,-46.3372008,48256.0
+218,Pompéia,10 ,"R. Epaminondas de Toledo Pizza, S/N - Centro CEP: 17580-000",-22.1050775,-50.1676346,473108.0
 219,Pontal,15 ,"R. João Totti, 824 - Village Tropical CEP: 14180-000",-21.0304937,-48.0444691,351047.0
 220,Porangaba,10 ,"R. Lazinho Nunes da Silva, 505 - Vista Alegre CEP: 18260-000",-23.1747999,-48.1002024,171391.0
 221,Porto Feliz,15 ,"R. Conego Belotti, 200 - Porto Feliz CEP: 18540-000",-23.2156329,-47.52167379999999,114037.0
 222,Porto Ferreira,20 ,"Av. Nicolau de Vergueiro Forjaz, 860 - Centro CEP: 13660-000",-21.851418,-47.4838256,224290.0
-223,Potim,10 ,"R. Rio Grande do Sul, 43 - Jardim Alvorada CEP: 12525-000",-22.8354592,-45.2582776,176998.0
+223,Potim,10 ,"R. Rio Grande do Sul, 43 - Jardim Alvorada CEP: 12525-000",-22.835526,-45.2589554,176744.0
 224,Pradopolis,10 ,"R. Presidente Vargas, 748 - Centro CEP: 14850-000",-21.3620968,-48.06978489999999,318121.0
 225,Presidente Bernardes,10 ,"R. Arthur Hideki Yanai, 86 - Vila Ocidente CEP: 19300-000",-22.0086567,-51.557114,575421.0
-226,Presidente Epitácio,15 ,"R. Antonio Venâncio Lopes, 8-81 - Jardim Aimara CEP: 19470-000",-21.7713467,-52.1136811,640890.0
+226,Presidente Epitácio,15 ,"R. Antonio Venâncio Lopes, 8-81 - Jardim Aimara CEP: 19470-000",-21.7713467,-52.1136811,640889.0
 227,Presidente Prudente,50 ,"Rod. Comendador Alberto Bonfiglioli, 2700 - Bonfiglioli CEP: 19063-390",-22.133982,-51.4476528,557286.0
 228,Presidente Venceslau,10 ,"R. Dom Pedro II, 787 - Centro CEP: 19400-000",-21.8757892,-51.8494123,607650.0
 229,Quatá,10 ,"Av. Rodolfo Sebastião Giorgi, 244 - Centro CEP: 19780-000",-22.2517078,-50.696621,485182.0
 230,Queluz,10 ,"Praça Padre Francisco Chagas Lima, 168 - Queluz CEP: 12800-000",-22.5384251,-44.774227,234974.0
 231,Rancharia,10 ,"R. Marcilio Dias, 440 - Centro CEP: 19600-000",-22.2271127,-50.89171169999999,504211.0
-232,Redenção da Serra,10 ,"Av. Nove de Julho, 60 - Centro CEP: 12170-000",-23.2845105,-45.5387428,171923.0
+232,Redenção da Serra,10 ,"Av. Nove de Julho, 60 - Centro CEP: 12170-000",-23.2845105,-45.5387428,171936.0
 233,Reginopolis,10 ,"R. Padre Moises de Miranda, 645 - Centro CEP: 17190-000",-21.8896644,-49.2225592,392914.0
-234,Ribeirão Pires,35 ,"R. Primeiro de Maio, 170 - Jardim Itacolomy CEP: 09402-510",-23.706641,-46.416684,60508.0
-235,Ribeirao Preto,100 ,"R. Alvares Cabral, 629 - Centro CEP: 14015-050",-21.1764681,-47.8111148,310085.0
+234,Ribeirão Pires,35 ,"R. Primeiro de Maio, 170 - Jardim Itacolomy CEP: 09402-510",,,
+235,Ribeirao Preto,100 ,"R. Alvares Cabral, 629 - Centro CEP: 14015-050",-21.1764681,-47.8111148,311663.0
 236,Rio Claro,50 ,"R. 06 - Dr. Eloy Chaves, 3265 - Alto Santana CEP: 13504-188",-22.3917398,-47.57020139999999,176444.0
 237,Rio das Pedras,10 ,"R. Adhemar de Barros, 550 - Centro CEP: 13390-000",-22.8422378,-47.6020565,163872.0
 238,Riolândia,10 ,"Av. Treze, 726 - Centro CEP: 15495-000",-19.9798949,-49.6784893,576106.0
 239,Rosana,10 ,"R. São Paulo, 399 - Distrito de Primavera CEP: 19274-000",-23.5505199,-46.63330939999999,11539.0
-240,Salesópolis,10 ,"R. XV de Novembro, 1070 - Centro CEP: 08970-000",-23.5302282,-45.853708,119152.0
-241,Saltinho,10 ,"Av. Sete de Setembro, 1734 - Centro CEP: 13440-000",-22.8461962,-47.6761683,173191.0
+240,Salesópolis,10 ,"R. XV de Novembro, 1070 - Centro CEP: 08970-000",-23.5302282,-45.853708,119164.0
+241,Saltinho,10 ,"Av. Sete de Setembro, 1734 - Centro CEP: 13440-000",-22.8461976,-47.6761729,173190.0
 242,Salto,35 ,"R. Francisco de Arruda Teixeira, 440 - Vila Flora CEP: 13322-000",-23.1907248,-47.29596919999999,107622.0
 243,Sandovalina,10 ,"R. João Alves dos Santos, 491 - Centro CEP: 19250-000",-22.4530326,-51.7653574,600977.0
-244,Santa Bárbara d'Oeste,40 ,R. General Couto Magalhães,-23.5366895,-46.6369641,5695.0
-245,Santa Branca,10 ,"R. Brigadeiro Aguiar, 112 - Centro CEP: 12380-000",-23.3965702,-45.88827819999999,97819.0
-246,Santa Cruz da Esperanca,10 ,"R. Horacio Roberto do Nascimento, 98 - Centro CEP: 14250-000",-21.2906453,-47.4308352,310068.0
+244,Santa Bárbara d'Oeste,40 ,R. General Couto Magalhães,-23.5366895,-46.6369641,7984.0
+245,Santa Branca,10 ,"R. Brigadeiro Aguiar, 112 - Centro CEP: 12380-000",-23.3965702,-45.88827819999999,97831.0
+246,Santa Cruz da Esperanca,10 ,"R. Horacio Roberto do Nascimento, 98 - Centro CEP: 14250-000",-21.2906453,-47.4308352,310064.0
 247,Santa Cruz das Palmeiras,10 ,"Av. do Café, 720 - Centro CEP: 13650-000",-21.8271908,-47.2522085,239021.0
 248,Santa Cruz do Rio Pardo,15 ,"R. Rodolfo Casanova, 50 - Vila João Picin CEP: 18900-000",-22.9118828,-49.613017,342911.0
 249,Santa Gertrudes,10 ,"R. Cordeirópolis, 175 - Jardim Paulista CEP: 13510-000",-22.444898,-47.54213439999999,166961.0
@@ -253,64 +253,64 @@
 251,Santana de Parnaíba,35 ,"R. Verona, 217 - Jardim Isaura CEP: 06516-070",-23.4826022,-46.8924654,30892.0
 252,Santo Anastacio,10 ,"R. Engenheiro Maylaski, 156 - Centro CEP: 19360-000",-21.9753705,-51.6610635,586923.0
 253,Santo André,50 ,"Estrada do Cata Preta, 810 - Vila João Ramalho CEP: 09170-000",-23.7118982,-46.508715,36178.0
-254,Santo Antônio da Alegria,10 ,"R. Nove de Julho, 1100 - Centro CEP: 14390-000",-21.090548,-47.155004,315024.0
-255,Santos,50 ,"R. Sete de Setembro, 34 - Setembro CEP: 11013-350",-23.9399,-46.3243,80865.0
+254,Santo Antônio da Alegria,10 ,"R. Nove de Julho, 1100 - Centro CEP: 14390-000",-21.090548,-47.155004,323306.0
+255,Santos,50 ,"R. Sete de Setembro, 34 - Setembro CEP: 11013-350",-23.9402175,-46.323149,80987.0
 256,São Bernardo do Campo,100 ,"Av. Dom Jaime de Barros Câmara, 201 - Planalto CEP: 09895-400",-23.7079267,-46.5637599,28101.0
 257,São Caetano do Sul - Prefeitura,40 ,"Av. Goiás, 3400 - Santa Maria CEP: 09560-400",,,
 258,São Carlos,50 ,"R. São Sebastião, 2828 - Aparque Santa Mônica CEP: 13561-207",-22.013329,-47.883112,232281.0
-259,São João da Boa Vista,30 ,"R. Riachuelo, 444 - Centro CEP: 13870-234",-21.9690177,-46.79425759999999,212040.0
+259,São João da Boa Vista,30 ,"R. Riachuelo, 444 - Centro CEP: 13870-234",-21.9690177,-46.79425759999999,212037.0
 260,São José do Barreiro,10 ,"Av. Fortunato Lobão, S/N - Centro CEP: 12830-000",-22.6436276,-44.582946,270389.0
 261,São José do Rio Preto,50 ,"R. General Glicério, 3947 - Vila Redentora CEP: 15015-400",-20.8169124,-49.387807,437311.0
 262,São José dos Campos - Parque Tecnológico,50 ,"Av. Dr. Altino Bondensan, 500 - Eugêncio de Melo CEP: 12247-016",-23.1510828,-45.7828613,106252.0
-263,São José dos Campos - Santana,50 ,"Av. Olivo Gomes, 250 - Santana CEP: 12211-115",-23.1704616,-45.8901561,100621.0
-264,São Lourenço da Serra,10 ,"R. João Alfredo Guimarães, 386 - Centro CEP: 06890-000",,,
-265,São Miguel Arcanjo,10 ,"R. José de Moraes Terra, 280 - Jardim Nova Vila Rica CEP: 18230-000",-23.8847132,-47.9890641,179031.0
-266,São Paulo - Alto Alegre,35 ,"R. Bento Guelfi, 1802 - Jd Laranjeira CEP: 08381-001",-23.6104841,-46.4263063,33718.0
-267,São Paulo - Caminho do Mar,35 ,"R. Engº Armando de Arruda Pereira, 5241 - Jd Lourdes CEP: 04325-001",-23.667623,-46.6358583,17495.0
+263,São José dos Campos - Santana,50 ,"Av. Olivo Gomes, 250 - Santana CEP: 12211-115",-23.1704616,-45.8901561,100623.0
+264,São Lourenço da Serra,10 ,"R. João Alfredo Guimarães, 386 - Centro CEP: 06890-000",-7.8612232,-35.5909546,2617089.0
+265,São Miguel Arcanjo,10 ,"R. José de Moraes Terra, 280 - Jardim Nova Vila Rica CEP: 18230-000",-23.884323,-47.99034899999999,179170.0
+266,São Paulo - Alto Alegre,35 ,"R. Bento Guelfi, 1802 - Jd Laranjeira CEP: 08381-001",-23.6104841,-46.4263063,33730.0
+267,São Paulo - Caminho do Mar,35 ,"R. Engº Armando de Arruda Pereira, 5241 - Jd Lourdes CEP: 04325-001",-23.668252,-46.635428,17394.0
 268,São Paulo - Cantos do Amanhecer,35 ,"Av. Cantos do Amanhecer, s/nº - Jardim Eledy CEP: 5856020",-23.6496455,-46.7859632,23590.0
 269,São Paulo - Feitiço da Vila,35 ,"R. Feitiço da Vila, 399 - Chácara Santa Maria CEP: 05879-000",-23.6862114,-46.793739,25714.0
-270,São Paulo - Guarapiranga,35 ,"Estrada da Baronesa, 1120 - Jd Kagohara CEP: 4941175",-23.6968533,-46.7655801,25111.0
-271,São Paulo - Inácio Monteiro,35 ,"R. Barão Barroso do Amazonas, s/n - Conjunto Inácio Monteiro CEP: 08472-721",-23.5696559,-46.4104387,43780.0
+270,São Paulo - Guarapiranga,35 ,"Estrada da Baronesa, 1120 - Jd Kagohara CEP: 4941175",-23.6968533,-46.7655801,25108.0
+271,São Paulo - Inácio Monteiro,35 ,"R. Barão Barroso do Amazonas, s/n - Conjunto Inácio Monteiro CEP: 08472-721",-23.5696559,-46.4104387,43792.0
 272,São Paulo - Jaguaré,35 ,"Av. Keikiti Simomoto, 80 - Jaguaré CEP: 05347-010",-23.5504364,-46.7419593,8905.0
-273,São Paulo - Lajeado,35 ,"R. Manoel da Mota Coutinho, 293 - Lajeado CEP: 8451420",-23.5443789,-46.4005545,42498.0
-274,São Paulo - Paz,35 ,"R. Daniel Cerri, 1549 - Jd Paraná CEP: 02879-140",-23.446199,-46.6919561,14371.0
+273,São Paulo - Lajeado,35 ,"R. Manoel da Mota Coutinho, 293 - Lajeado CEP: 8451420",-23.5443789,-46.4005545,42510.0
+274,São Paulo - Paz,35 ,"R. Daniel Cerri, 1549 - Jd Paraná CEP: 02879-140",-23.4480549,-46.6888521,16192.0
 275,São Paulo - Pq. Anhanguera,35 ,"R. Pedro José de Lima, 1020 - Jd Anhanguera CEP: 5267174",-23.4397843,-46.7871379,28319.0
-276,São Paulo - Sapopemba,35 ,"R. Manuel Quirino de Mattos, s/n - Jd Sapopemba CEP: 03969-000",-23.6089069,-46.4935935,28521.0
-277,São Paulo - Três Pontes,35 ,"R. Capachos, 400 - Jd Célia CEP: 08191-330",-23.478372,-46.3813019,40656.0
+276,São Paulo - Sapopemba,35 ,"R. Manuel Quirino de Mattos, s/n - Jd Sapopemba CEP: 03969-000",-23.6089069,-46.4935935,28533.0
+277,São Paulo - Três Pontes,35 ,"R. Capachos, 400 - Jd Célia CEP: 08191-330",-23.478372,-46.3813019,40667.0
 278,São Paulo - Uirapuru,35 ,"R. Nazir Miguel, 849 - Jd João VI CEP: 05570-030",-23.6004866,-46.7892721,17378.0
-279,São Paulo - Vila Rubi,35 ,"R. Domingos Tarroso, 101 - Vila Rubi CEP: 04823-090",-23.7277995,-46.6976041,28138.0
-280,São Paulo - Água Azul,35 ,"Av. dos Metalúrgicos, 1262 - Cidade Tiradentes CEP: 08471-000",-23.5940339,-46.4065735,35902.0
-281,São Paulo - Alvarenga,35 ,"Estrada do Alvarenga, 3752 - Balneário São Francisco CEP: 04474-340",-23.7047708,-46.6440127,28880.0
-282,São Paulo - Aricanduva,35 ,"R. Olga Fadel Abarca, S/N - Jardim Santa Terezinha CEP: 03572-020",-23.5725901,-46.5030955,24174.0
-283,São Paulo - Azul da Cor do Mar,35 ,"Av. Ernesto Souza Cruz, 2171 - Cidade Antonio Estevão CEP: 08225-380",-23.5214948,-46.45667539999999,33639.0
+279,São Paulo - Vila Rubi,35 ,"R. Domingos Tarroso, 101 - Vila Rubi CEP: 04823-090",-23.7277995,-46.6976041,28139.0
+280,São Paulo - Água Azul,35 ,"Av. dos Metalúrgicos, 1262 - Cidade Tiradentes CEP: 08471-000",-23.5940339,-46.4065735,35913.0
+281,São Paulo - Alvarenga,35 ,"Estrada do Alvarenga, 3752 - Balneário São Francisco CEP: 04474-340",-23.7047708,-46.6440127,28881.0
+282,São Paulo - Aricanduva,35 ,"R. Olga Fadel Abarca, S/N - Jardim Santa Terezinha CEP: 03572-020",-23.5725901,-46.5030955,24185.0
+283,São Paulo - Azul da Cor do Mar,35 ,"Av. Ernesto Souza Cruz, 2171 - Cidade Antonio Estevão CEP: 08225-380",-23.5214948,-46.45667539999999,33650.0
 284,São Paulo - Butantã,35 ,"R. Engenheiro Heitor Antônio Eiras Garcia, 1870 - Jardim Esmeralda CEP: 05588-001",-23.5826574,-46.749982,12021.0
 285,São Paulo - Campo Limpo,35 ,"Av. Carlos Lacerda, 678 - Campo Limpo CEP: 05789-000",-23.636989,-46.7795195,17558.0
 286,São Paulo - Capão Redondo,35 ,"R. Daniel Gran, S/N - Jardim Modelo CEP: 05867-380",-23.673948,-46.768487,24111.0
 287,São Paulo - Casa Blanca,35 ,"R. João Damasceno, 85 - Vila das Belezas CEP: 05841-160",-23.6470111,-46.7438824,18527.0
-288,São Paulo - Cidade Dutra,35 ,"Av. Interlagos, 7350 - Cidade Dutra CEP: 04777-000",-23.7106679,-46.704871,26012.0
-289,São Paulo - Formosa,35 ,"R. Sargento Claudiner Evaristo Dias, 10 - Parque Santo Antonio CEP: 03385-150",-23.5809965,-46.52561190000001,24281.0
-290,São Paulo - Freguesia do Ó,35 ,"Av. Deputado Emílio Carlos, 3871 - Limão CEP: 02721-200",-23.475105,-46.668977,8494.0
-291,São Paulo - Heliópolis,35 ,"Estrada das Lágrimas, 2385 - São João Climaco CEP: 04244-000",-23.6221722,-46.5907948,19660.0
+288,São Paulo - Cidade Dutra,35 ,"Av. Interlagos, 7350 - Cidade Dutra CEP: 04777-000",-23.7106679,-46.704871,26013.0
+289,São Paulo - Formosa,35 ,"R. Sargento Claudiner Evaristo Dias, 10 - Parque Santo Antonio CEP: 03385-150",-23.5809965,-46.52561190000001,24293.0
+290,São Paulo - Freguesia do Ó,35 ,"Av. Deputado Emílio Carlos, 3871 - Limão CEP: 02721-200",-23.475105,-46.668977,8465.0
+291,São Paulo - Heliópolis,35 ,"Estrada das Lágrimas, 2385 - São João Climaco CEP: 04244-000",-23.6221722,-46.5907948,19156.0
 292,São Paulo - Jaçanã,35 ,"R. Francisca Espósito Tonetti, 105 - Jardim Guapira CEP: 02276-010",-23.4570823,-46.5845419,24648.0
-293,São Paulo - Jambeiro,35 ,"Av. José Pinheiro Borges, 60 - Guaianses CEP: 08420-092",-23.5364811,-46.4262362,39502.0
-294,São Paulo - Jardim Paulistano,35 ,"R. Aparecida do Taboado, S/N - Jardim Paulistano CEP: 02814-000",-23.4588287,-46.7071451,13020.0
-295,São Paulo - Meninos,35 ,"R. Barbinos, 111 - São João Clímaco CEP: 04240-110",-23.6214189,-46.584375,18862.0
-296,São Paulo - Navegantes,35 ,"R. Maria Moassab Barbour, S/N - Cantinho do Céu CEP: 04849-503",-23.7435448,-46.6607261,35401.0
+293,São Paulo - Jambeiro,35 ,"Av. José Pinheiro Borges, 60 - Guaianses CEP: 08420-092",-23.5364811,-46.4262362,39513.0
+294,São Paulo - Jardim Paulistano,35 ,"R. Aparecida do Taboado, S/N - Jardim Paulistano CEP: 02814-000",-23.4588287,-46.7071451,14013.0
+295,São Paulo - Meninos,35 ,"R. Barbinos, 111 - São João Clímaco CEP: 04240-110",-23.6214189,-46.584375,18358.0
+296,São Paulo - Navegantes,35 ,"R. Maria Moassab Barbour, S/N - Cantinho do Céu CEP: 04849-503",-23.7435448,-46.6607261,35402.0
 297,São Paulo - Paraisópolis,35 ,"R. Dr. José Augusto de Souza e Silva, S/N - Jardim Parque Morumbi CEP: 05712-040",-23.6203622,-46.7298979,17392.0
 298,São Paulo - Parelheiros,35 ,"R. José Pedro de Borba, 20 - Jardim Novo Parelheiros CEP: 04890-090",-23.8281728,-46.72514349999999,41670.0
 299,São Paulo - Parque Bristol,35 ,"R. Prof. Arthur Primavesi, S/N - Parque Bristol CEP: 04177-070",-23.643751,-46.60948639999999,19032.0
-300,São Paulo - Parque São Carlos,35 ,"R. Clarear, 643 - Jardim São Carlos CEP: 08062-590",-23.509771,-46.4738336,34085.0
-301,São Paulo - Parque Veredas,35 ,"R. Daniel Muller, 347 - Itaim Paulista CEP: 08141-290",-23.5132717,-46.3898805,42335.0
-302,São Paulo - Pera Marmelo,35 ,"R. Pêra Marmelo, 226 - Jaraguá CEP: 05185-420",-23.4369712,-46.7507311,28499.0
+300,São Paulo - Parque São Carlos,35 ,"R. Clarear, 643 - Jardim São Carlos CEP: 08062-590",-23.509771,-46.4738336,34096.0
+301,São Paulo - Parque Veredas,35 ,"R. Daniel Muller, 347 - Itaim Paulista CEP: 08141-290",-23.5132717,-46.3898805,42347.0
+302,São Paulo - Pera Marmelo,35 ,"R. Pêra Marmelo, 226 - Jaraguá CEP: 05185-420",-23.4369712,-46.7507311,28507.0
 303,São Paulo - Perus,35 ,"R. Bernardo José de Lorena, S/N - Vila Malvina CEP: 05203-200",-23.4057127,-46.7513843,26395.0
-304,São Paulo - Quinta do Sol,35 ,"Av. Luiz Imparato, 564 - Vila Cisper CEP: 03819-160",-23.4987799,-46.4961166,24062.0
-305,São Paulo - Rosa da China,35 ,"R. Clara Petrela, 113 - Jardim São Roberto CEP: 03978-500",-23.6213622,-46.5010529,29682.0
-306,São Paulo - São Mateus,35 ,"R. Curumatim, 201 - Parque Boa Esperança CEP: 08341-240",-23.6025595,-46.4493106,30818.0
-307,São Paulo - São Rafael,35 ,"R. Cinira Polônio, 100 - São Rafael CEP: 08395-320",-23.6207574,-46.4568816,32527.0
-308,São Paulo - Tiquatira,35 ,"Av. Condessa Elisabeth de Robiano, S/N - Penha CEP: 03704-000",-23.5270199,-46.5645811,14282.0
+304,São Paulo - Quinta do Sol,35 ,"Av. Luiz Imparato, 564 - Vila Cisper CEP: 03819-160",-23.4987799,-46.4961166,24074.0
+305,São Paulo - Rosa da China,35 ,"R. Clara Petrela, 113 - Jardim São Roberto CEP: 03978-500",-23.6213622,-46.5010529,29693.0
+306,São Paulo - São Mateus,35 ,"R. Curumatim, 201 - Parque Boa Esperança CEP: 08341-240",-23.6025595,-46.4493106,30830.0
+307,São Paulo - São Rafael,35 ,"R. Cinira Polônio, 100 - São Rafael CEP: 08395-320",-23.6207574,-46.4568816,32539.0
+308,São Paulo - Tiquatira,35 ,"Av. Condessa Elisabeth de Robiano, S/N - Penha CEP: 03704-000",-23.5270199,-46.5645811,14309.0
 309,São Paulo - Três Lagos,35 ,"R. Maria Moura da Conceição, S/N - Jardim Belcito CEP: 04855-257",-23.7672042,-46.6785465,33324.0
 310,São Paulo - Vila Atlântica,35 ,"R. Coronel José Venâncio Dias, 840 - Jardim Jaraguá CEP: 05160-030",-23.4813299,-46.7626941,17927.0
-311,São Paulo - Vila Curuçá,35 ,"Av. Marechal Tito, 3452 - Jardim Miragaia CEP: 08160-495",-23.4950351,-46.4122963,35776.0
+311,São Paulo - Vila Curuçá,35 ,"Av. Marechal Tito, 3452 - Jardim Miragaia CEP: 08160-495",-23.4950351,-46.4122963,35787.0
 312,São Paulo - Vila do Sol,35 ,"Av. dos Funcionarios Públicos, 369 - Jardim Vera Cruz CEP: 04962-000",-23.7355667,-46.7808053,30542.0
 313,São Pedro,10 ,"R. Jorge de Toledo, 336 - Jardim Cássio Paschoal Padovani CEP: 13520-000",-22.5599433,-47.9011565,187814.0
 314,Sao Pedro do Turvo,10 ,"R. García Braga, 196 - Centro CEP: 18940-000",-22.7503888,-49.7387428,358562.0
@@ -319,19 +319,19 @@
 317,São Vicente - Insular,30 ,"Av. Antônio Emmerich, 504 - Vila Valença CEP: 11370-000",-23.961606,-46.377882,76687.0
 318,São Vicente - Quarentenário,30 ,"Av. Quarentenário, 1001 - Jardim Quarentenário CEP: 11347-520",-23.9842553,-46.4620703,75719.0
 319,Sarapuí,10 ,"R. Doutor Júlio Prestes, 780 - Vila Ana Maria CEP: 18225-000",-23.6506958,-47.7834888,158587.0
-320,Serrana,15 ,"R. Santa Cruz, 1801 - Jardim Cristina CEP: 14150-000",-21.2003376,-47.5969179,311412.0
-321,Sertãozinho,35 ,"R. Oswaldo Bertuso, 126 - Conjunto Habitacional Antônio Nadaletto Mazzer CEP: 14177-082",-21.136272,-48.0037762,336701.0
-322,Sete Barras,10 ,"R. José Lopes, 35 - Centro CEP: 11910-000",-24.3915196,-47.925877,204004.0
+320,Serrana,15 ,"R. Santa Cruz, 1801 - Jardim Cristina CEP: 14150-000",-21.2001152,-47.5965242,311374.0
+321,Sertãozinho,35 ,"R. Oswaldo Bertuso, 126 - Conjunto Habitacional Antônio Nadaletto Mazzer CEP: 14177-082",-21.136272,-48.0037762,336590.0
+322,Sete Barras,10 ,"R. José Lopes, 35 - Centro CEP: 11910-000",-24.3915196,-47.925877,204013.0
 323,Severínia,10 ,"R. Dr. Salomão Galib Tannur, 827 - Jardim Primavera CEP: 14735-000",-20.7958428,-48.8461431,423968.0
-324,Socorro,15 ,"R. Alfredo de Oliveira Santos, 68 - Centro CEP: 13960-000",-22.5906428,-46.5286734,138188.0
-325,Sorocaba - Parque Tecnológico,50 ,"Av. Itavuvu, 11777 - Distrito Industrial Zona Norte CEP: 18078-005",-23.3862734,-47.4785031,99106.0
+324,Socorro,15 ,"R. Alfredo de Oliveira Santos, 68 - Centro CEP: 13960-000",-22.5906428,-46.5286734,138189.0
+325,Sorocaba - Parque Tecnológico,50 ,"Av. Itavuvu, 11777 - Distrito Industrial Zona Norte CEP: 18078-005",-23.3863236,-47.4784984,99093.0
 326,Sorocaba - Vila Barão,50 ,"Av. General Osório, 1840 - Vila Barão CEP: 18060-502",-23.4872811,-47.4794224,98960.0
-327,Sud Mennucci,10 ,"Av. Pioneiros, 809 - Centro CEP: 15360-000",-20.6900626,-50.9249213,610840.0
+327,Sud Mennucci,10 ,"Av. Pioneiros, 809 - Centro CEP: 15360-000",-20.6900626,-50.9249213,610844.0
 328,Sumaré,50 ,"Av. Brasil, 1111 - Jardim Irmã Davina CEP: 13177-310",-22.8126365,-47.2253789,110610.0
-329,Suzano,50 ,"R. General Francisco Glicério, 1334 - Centro CEP: 08674-002",-23.5459048,-46.3128104,55326.0
-330,Tambaú,10 ,"Praça Padre Donizetti Tavares de Lima, 159 - Centro CEP: 13710-000",-21.704168,-47.2718008,253139.0
-331,Tapiratiba,10 ,"Praça Dona Esméria do Valle Figueiredo, 171 - Centro CEP: 13760-000",-21.4696574,-46.74905829999999,270647.0
-332,Taquaral,10 ,"R. Central, 119 - Centro CEP: 14765-000",-21.0732724,-48.408088,360559.0
+329,Suzano,50 ,"R. General Francisco Glicério, 1334 - Centro CEP: 08674-002",-23.5459048,-46.3128104,55338.0
+330,Tambaú,10 ,"Praça Padre Donizetti Tavares de Lima, 159 - Centro CEP: 13710-000",-21.704168,-47.2718008,253135.0
+331,Tapiratiba,10 ,"Praça Dona Esméria do Valle Figueiredo, 171 - Centro CEP: 13760-000",-21.4696574,-46.74905829999999,270643.0
+332,Taquaral,10 ,"R. Central, 119 - Centro CEP: 14765-000",-21.0732724,-48.408088,360499.0
 333,Taquaritinga,20 ,"Av. Doutor Flávio Henrique Lemos, 585 - Portal Itamaracá CEP: 15900-000",-21.430094,-48.515285,330447.0
 334,Taquarituba,10 ,"R. São Benedito, 484 - Centro CEP: 18740-000",-23.5311083,-49.2456288,325270.0
 335,Taquarivai,10 ,"R. Maria Joana Ferraz, 280 - Centro CEP: 18425-000",-23.9239496,-48.6969387,264327.0
@@ -341,15 +341,15 @@
 339,Teodoro Sampaio,10 ,"R. José Miguel de Castro Andrade, 916 - Centro CEP: 19280-000",-22.5308809,-52.171339,650315.0
 340,Tietê,15 ,"R. Luiz Montanham, 1190 -  Terra Nova Tietê CEP: 18530-000",-23.0912002,-47.7056282,141635.0
 341,Torrinha,10 ,"Rod. SP 304 Amauri Barroso de Souza, km 247 - Zona Rural CEP: 17360-000",-22.1046535,-48.69828769999999,313011.0
-342,Tremembé,15 ,"R. Antônio Lourenço Xavier, S/N - Jardim Bom Jesus CEP: 12120-000",-22.964111,-45.54911329999999,158979.0
-343,Tupã,20 ,"R. Tapuias, S/N - Núcleo Fepasa CEP: 17600-900",-21.9364624,-50.5117089,509135.0
-344,Urupês,10 ,"R. José Bonifácio, 804 - Centro CEP: 15850-000",-21.1996992,-49.2888438,417221.0
+342,Tremembé,15 ,"R. Antônio Lourenço Xavier, S/N - Jardim Bom Jesus CEP: 12120-000",-22.964111,-45.54911329999999,158991.0
+343,Tupã,20 ,"R. Tapuias, S/N - Núcleo Fepasa CEP: 17600-900",-21.9364624,-50.5117089,517318.0
+344,Urupês,10 ,"R. José Bonifácio, 804 - Centro CEP: 15850-000",-21.2097418,-49.2435998,418526.0
 345,Valinhos,35 ,"R. dos Geranios, S/N - Jd. Paraiso CEP: 13273-340",,,
-346,Vargem Grande do Sul,15 ,"R. São Braz, 200 - Santa CEP: 13880-000",-21.8411508,-46.9045968,227177.0
+346,Vargem Grande do Sul,15 ,"R. São Braz, 200 - Santa CEP: 13880-000",-21.8411508,-46.9045968,227173.0
 347,Vargem Grande Paulista,15 ,"R. Mathias Maciel de Almeida, 60, Gleba 05 - Centro CEP: 06730-000",-23.6063827,-47.0257105,42468.0
 348,Várzea Paulista,35 ,"Av. Ipiranga, 151 - Centro CEP: 13220-210",-23.2105543,-46.8326251,54504.0
-349,Vera Cruz,10 ,"R. Drª Cecília Rangel Janini, 03 - Centro CEP: 17560-000",-22.2193671,-49.8247655,418517.0
+349,Vera Cruz,10 ,"R. Drª Cecília Rangel Janini, 03 - Centro CEP: 17560-000",-22.2193671,-49.8247655,426700.0
 350,Vinhedo,25 ,"Av. Independência, 5110 - Jardim Alba CEP: 13289-038",-23.0301137,-46.9803205,73502.0
 351,Viradouro,10 ,"R. Durval Marçal Vieira, 671 - Jardim das Palmeiras CEP: 14740-000",-20.8623991,-48.287808,396462.0
-352,Votorantim,35 ,"Av. Vereador Newton Vieira Soares, 291 - Centro CEP: 18110-013",-23.5430023,-47.4456298,102287.0
+352,Votorantim,35 ,"Av. Vereador Newton Vieira Soares, 291 - Centro CEP: 18110-013",-23.5430023,-47.4456298,102286.0
 353,Votuporanga,35 ,"R. Pernambuco, 1736 - Vila Muniz CEP: 15501-095",-20.4358256,-49.9709673,517432.0
